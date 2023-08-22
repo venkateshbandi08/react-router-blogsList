@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-image {
+  width: 150px;
+}
+.profile-name {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.designation {
+  font-family: 'Roboto';
+}
